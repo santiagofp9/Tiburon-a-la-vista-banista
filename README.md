@@ -8,4 +8,8 @@ This is not due to the premiere of the Jaws movie series. There were no real val
 The data cleaning criteria can be consulted in Hygiene.ipynb and the research process at Inquisiciones.ipynb
 
 The following playlist had a decisive influence in the whoe project:
-https://open.spotify.com/embed/playlist/02esIUh07tSMFXic57YP59?utm_source=generator
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/02esIUh07tSMFXic57YP59?utm_source=generator)
+
+
+
